@@ -1,3 +1,5 @@
 ---
 applications:
-- name: WebApp
+  - name: WebApp
+  buildpacks: 
+  - java_buildpack
