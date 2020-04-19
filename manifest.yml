@@ -1,6 +1,6 @@
 ---
 applications:
 - name: yankiverapp
-buildpacks: 
- - java_buildpack
-path: target/webapp-0.0.1-SNAPSHOT.jar
+   buildpacks: 
+   - java_buildpack
+   path: target/webapp-0.0.1-SNAPSHOT.jar
